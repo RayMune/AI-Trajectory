@@ -7,7 +7,7 @@ The greatest amount of success. Projects like ImageNet enfurthened this and CNNs
 and even in facial recognition. <br>
 Most recently one of the key figures of the notorious Kinahan cartel was caught playing padel in dubai - Ian Dixon who was a wanted man 
 participated in a Dubai Padel Tournament "The tournament was live-streamed to YouTube via webcams set up on two courts. Dixon was captured throughout the three-day event, both playing on the court and mingling with others in the background. The hour-long male amateur final, which Dixon lost, is viewable in its entirety." <br>
-Read more on the Ian Dixon story [from this Bellingcat Investigation](https://www.bellingcat.com/news/2026/06/27/poster-boy-sanctioned-kinahan-cartel-lieutenant-found-playing-padel-in-dubai/) 
+Read more on the Ian Dixon story [from this Bellingcat Investigation](https://www.bellingcat.com/news/2026/06/27/poster-boy-sanctioned-kinahan-cartel-lieutenant-found-playing-padel-in-dubai/) <br>
 Newer age tasks such as visual reasoning and reading comprehension have rapidly risen to be on the same level as humans in just a number of years. The newest task on the list is agent computer use which currently vastly underperforms human capabilities. <br>
 However, we've seen [anthropic](https://www.youtube.com/watch?v=NAauIR6JFps) offer agents that can autonomously run one's desktop i.e can create files, reorganize folders and change project repositories. <br>
 
