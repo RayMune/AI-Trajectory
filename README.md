@@ -62,3 +62,4 @@ At the time of this writing Grok and Roll by Grok 4.3 is Currently disabled, Pau
 AGI = A highly autonomous system that outperforms humans at most economically valuable work"
 
 ![Risks of AGI by Bluedot Impact](https://github.com/RayMune/AI-Trajectory/blob/main/3-risks%20of%20AGI.svg)
+![essential reads on AI Risk from 80000 hours](https://80000hours.org/articles/11-essential-resources-ai-risk/)
