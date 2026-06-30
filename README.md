@@ -4,7 +4,8 @@
 ![AI Index performance vs Human performance](https://raw.githubusercontent.com/RayMune/AI-Trajectory/main/ai-index-benchmarks%20s%20hai%20-%20bluedot%20impact.webp)
 AI is rapidly advancing in tasks that were initially held out for humans, tasks like image classification was the first one in which ML models achieved
 The greatest amount of success. Projects like ImageNet enfurthened this and CNNs have grown to be crucial in cancer detection, Number plate recognition 
-and even in facial recognition. Most recently one of the key figures of the notorious Kinahan cartel was caught playing padel in dubai - Ian Dixon who was a wanted man 
+and even in facial recognition. <br>
+Most recently one of the key figures of the notorious Kinahan cartel was caught playing padel in dubai - Ian Dixon who was a wanted man 
 participated in a Dubai Padel Tournament "The tournament was live-streamed to YouTube via webcams set up on two courts. Dixon was captured throughout the three-day event, both playing on the court and mingling with others in the background. The hour-long male amateur final, which Dixon lost, is viewable in its entirety." <br>
 Read more on the Ian Dixon story [from this Bellingcat Investigation](https://www.bellingcat.com/news/2026/06/27/poster-boy-sanctioned-kinahan-cartel-lieutenant-found-playing-padel-in-dubai/) 
 Newer age tasks such as visual reasoning and reading comprehension have rapidly risen to be on the same level as humans in just a number of years. The newest task on the list is agent computer use which currently vastly underperforms human capabilities. <br>
